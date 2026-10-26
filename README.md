@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Idox Geospatial is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://idoxgeospatial.co.uk/
+Idox Geospatial, part of Idox Ltd, provides location data, geospatial software and services. Their platform enables organizations to achieve more with location insight, offering mapping, analytics, and data integration solutions for various industries.
+
+**Areas:** Company · Geospatial · Mapping · DataAnalytics · LocationInsight
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://idoxgeospatial.co.uk/)
+- [Documentation](https://idoxgeospatial.co.uk/2026/10/07/data-integration-and-api-access/)
+- [Pricing](https://idoxgeospatial.co.uk/plans/)
+- [Sign up](https://idoxgeospatial.co.uk/2025/06/28/registers-of-scotland-inspire-themapcloud/)
+- [Blog](https://idoxgeospatial.co.uk/idox-geospatial-blog/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/idox-geospatial/](https://apis.io/providers/idox-geospatial/).
